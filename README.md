@@ -35,5 +35,5 @@ Terimakasih kepada :
 1. Dosen-dosen dan asisten dosen IF2211 Strategi Algoritma yang telah memberikan tugas ini sehingga kami dapat mengeksplor lebih, dan
 2. Teman-teman seperjuangan di IF 2020 dan teman-teman lain yang menjadi support system di awal semester 4 ini
 
-## Contact Us
+## Contact Me
 - [Hilda Carissa Widelia](https://github.com/hcarissa)
